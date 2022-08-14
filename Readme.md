@@ -1,0 +1,1 @@
+LeetCode Solutions in Python (for now) as I learn data structures and go through my computer science degree. 
